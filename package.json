@@ -1,0 +1,21 @@
+{
+	"name": "load-class",
+	"version": "1.0.0",
+	"description": "Loads class methods from a directory.",
+	"dependencies": {
+		"bluebird": "*"
+	},
+	"repository": "blitzprog/load-class",
+	"keywords": [
+		"class",
+		"directory",
+		"extend",
+		"methods",
+		"properties"
+	],
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "https://blitzprog.org"
+	}
+}
